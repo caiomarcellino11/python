@@ -22,12 +22,9 @@
 #     i += 1 
 ##use "+=" para ir somando em 1 em 1
 
-senha = ''
-while senha != '123':
-    senha = input("qual a senha do sistema? ")
-print ("acesso liberado")
-if senha != "123":
-    print("errou tente novamente")
-
-## `!=` diferente isso se chama
+# senha = ''
+# while senha != '123':
+#     senha = input("qual a senha do sistema? ")
+# print ("acesso liberado")
+# ## `!=` diferente isso se chama
 

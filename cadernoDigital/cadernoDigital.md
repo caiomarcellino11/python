@@ -141,8 +141,8 @@ O objetivo deste projeto é registrar meu aprendizado desde os fundamentos da li
 * [x] Operadores
 * [x] Strings
 * [x] Estruturas condicionais
-* [ ] Estrutura `for`
-* [ ] Estrutura `while`
+* [x] Estrutura `for`
+* [x] Estrutura `while`
 * [ ] Listas
 * [ ] Tuplas
 * [ ] Dicionários
@@ -217,6 +217,20 @@ Este repositório não tem apenas o objetivo de armazenar códigos.
 Ele funciona como um registro da minha evolução durante os estudos, contendo exemplos, exercícios, anotações e projetos desenvolvidos ao longo do aprendizado.
 
 > 🚧 Repositório em desenvolvimento. O conteúdo será atualizado conforme avanço nos estudos.
+
+---
+
+### For / while 
+
+`for` --> utilizado quando sabemos a quantidade de vezes que eu preciso repetir a tarefa.
+>quando eu sei a quantidade de vezes use `for`
+
+`while` --> quando eu não sei a quantidade de vezes que preciso executar, depedendo de uma condição 
+>quando eu não sei a quantidade mas depende de uma condição(reptir até chegar em tal número) use `while`
+
+
+
+
 
 
 
